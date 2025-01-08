@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-27T20:38:07 IST" name="Default suite" finished-at="2024-12-27T20:38:20 IST" duration-ms="13136">
+    <groups>
+    </groups>
+    <test started-at="2024-12-27T20:38:07 IST" name="Default test" finished-at="2024-12-27T20:38:20 IST" duration-ms="13136">
+      <class name="com.Assignments.OHRM_Login_Logout">
+        <test-method is-config="true" signature="launchOHRM()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:07 IST" name="launchOHRM" finished-at="2024-12-27T20:38:11 IST" duration-ms="4036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchOHRM -->
+        <test-method signature="login1()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:11 IST" name="login1" finished-at="2024-12-27T20:38:13 IST" duration-ms="1473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:13 IST" name="logout" finished-at="2024-12-27T20:38:15 IST" duration-ms="2080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="login2()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:15 IST" name="login2" finished-at="2024-12-27T20:38:16 IST" duration-ms="1057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:16 IST" name="logout" finished-at="2024-12-27T20:38:16 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="login3()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:16 IST" name="login3" finished-at="2024-12-27T20:38:17 IST" duration-ms="1424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login3 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:17 IST" name="logout" finished-at="2024-12-27T20:38:19 IST" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="login4()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:19 IST" name="login4" finished-at="2024-12-27T20:38:20 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login4 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:20 IST" name="logout" finished-at="2024-12-27T20:38:20 IST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.Assignments.OHRM_Login_Logout@35cabb2a]" started-at="2024-12-27T20:38:20 IST" name="afterTest" finished-at="2024-12-27T20:38:20 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.Assignments.OHRM_Login_Logout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
